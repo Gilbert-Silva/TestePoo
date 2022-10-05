@@ -2,6 +2,6 @@ using System;
 
 class Program {
   public static void Main() {
-    Console.WriteLine("Olá");
+    Console.WriteLine("Olá2");
   }
 }
